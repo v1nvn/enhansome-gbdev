@@ -189,7 +189,7 @@
             "last_commit": "2026-02-18T19:00:28Z",
             "owner": "shonumi",
             "repo": "gbe-plus",
-            "stars": 573
+            "stars": 574
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-02-27T08:17:07Z",
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5098
+            "stars": 5099
           }
         },
         {
@@ -535,7 +535,7 @@
             "last_commit": "2026-03-10T20:45:44Z",
             "owner": "gbdev",
             "repo": "rgbds",
-            "stars": 1569
+            "stars": 1570
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2026-03-05T23:31:38Z",
             "owner": "vhelin",
             "repo": "wla-dx",
-            "stars": 592
+            "stars": 593
           }
         }
       ],
@@ -723,7 +723,7 @@
             "last_commit": "2026-03-09T00:56:39Z",
             "owner": "mgba-emu",
             "repo": "mgba",
-            "stars": 6865
+            "stars": 6869
           }
         },
         {
@@ -775,7 +775,7 @@
             "last_commit": "2026-02-18T19:00:28Z",
             "owner": "shonumi",
             "repo": "gbe-plus",
-            "stars": 573
+            "stars": 574
           }
         },
         {
@@ -1185,7 +1185,7 @@
             "last_commit": "2026-01-25T02:19:31Z",
             "owner": "AntonioND",
             "repo": "gbt-player",
-            "stars": 300
+            "stars": 301
           }
         },
         {
@@ -1237,7 +1237,7 @@
             "last_commit": "2025-09-07T17:59:46Z",
             "owner": "SuperDisk",
             "repo": "hUGETracker",
-            "stars": 340
+            "stars": 342
           }
         },
         {
@@ -2597,7 +2597,7 @@
             "last_commit": "2026-01-24T15:00:03Z",
             "owner": "pret",
             "repo": "pokered",
-            "stars": 4611
+            "stars": 4613
           }
         },
         {
@@ -2607,10 +2607,10 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-03-01T23:20:12Z",
+            "last_commit": "2026-03-12T15:44:29Z",
             "owner": "pret",
             "repo": "pokecrystal",
-            "stars": 2384
+            "stars": 2385
           }
         },
         {
@@ -2688,7 +2688,7 @@
             "last_commit": "2026-02-05T12:05:45Z",
             "owner": "zladx",
             "repo": "LADX-Disassembly",
-            "stars": 879
+            "stars": 880
           }
         },
         {
@@ -3285,7 +3285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-12T04:19:45.727Z",
+    "last_updated": "2026-03-13T04:18:54.798Z",
     "original_repository": "gbdev/awesome-gbdev",
     "source_repository": "v1nvn/enhansome-gbdev",
     "source_repository_description": null,
