@@ -124,7 +124,7 @@
             "last_commit": "2026-03-22T17:06:00Z",
             "owner": "msinger",
             "repo": "dmg-schematics",
-            "stars": 36
+            "stars": 37
           }
         }
       ],
@@ -454,7 +454,7 @@
             "last_commit": "2025-10-11T16:08:35Z",
             "owner": "LIJI32",
             "repo": "SameSuite",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -535,7 +535,7 @@
             "last_commit": "2026-03-24T13:02:32Z",
             "owner": "gbdev",
             "repo": "rgbds",
-            "stars": 1580
+            "stars": 1582
           }
         },
         {
@@ -697,7 +697,7 @@
             "last_commit": "2026-03-04T21:40:17Z",
             "owner": "LIJI32",
             "repo": "SameBoy",
-            "stars": 2043
+            "stars": 2045
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2026-03-22T05:42:50Z",
             "owner": "mgba-emu",
             "repo": "mgba",
-            "stars": 6908
+            "stars": 6912
           }
         },
         {
@@ -762,7 +762,7 @@
             "last_commit": "2025-02-23T03:36:26Z",
             "owner": "aappleby",
             "repo": "metroboy",
-            "stars": 1161
+            "stars": 1162
           }
         },
         {
@@ -1064,7 +1064,7 @@
             "last_commit": "2025-09-12T05:44:48Z",
             "owner": "Rangi42",
             "repo": "tilemap-studio",
-            "stars": 501
+            "stars": 502
           }
         },
         {
@@ -1237,7 +1237,7 @@
             "last_commit": "2025-09-07T17:59:46Z",
             "owner": "SuperDisk",
             "repo": "hUGETracker",
-            "stars": 343
+            "stars": 344
           }
         },
         {
@@ -1545,7 +1545,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-03-24T15:11:25Z",
+            "last_commit": "2026-03-25T13:52:53Z",
             "owner": "Leandros",
             "repo": "dotfiles",
             "stars": 12
@@ -2380,7 +2380,7 @@
             "last_commit": "2024-08-01T05:49:24Z",
             "owner": "Zal0",
             "repo": "ZGB",
-            "stars": 778
+            "stars": 779
           }
         },
         {
@@ -2393,7 +2393,7 @@
             "last_commit": "2024-08-01T05:49:24Z",
             "owner": "Zal0",
             "repo": "ZGB",
-            "stars": 778
+            "stars": 779
           }
         },
         {
@@ -2406,7 +2406,7 @@
             "last_commit": "2024-08-01T05:49:24Z",
             "owner": "Zal0",
             "repo": "ZGB",
-            "stars": 778
+            "stars": 779
           }
         },
         {
@@ -2597,7 +2597,7 @@
             "last_commit": "2026-01-24T15:00:03Z",
             "owner": "pret",
             "repo": "pokered",
-            "stars": 4632
+            "stars": 4633
           }
         },
         {
@@ -2623,7 +2623,7 @@
             "last_commit": "2026-01-18T04:40:06Z",
             "owner": "pret",
             "repo": "pokeyellow",
-            "stars": 822
+            "stars": 823
           }
         },
         {
@@ -2863,10 +2863,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-25T02:42:46Z",
+            "last_commit": "2026-03-25T21:43:49Z",
             "owner": "HerrZatacke",
             "repo": "gb-printer-web",
-            "stars": 69
+            "stars": 70
           }
         }
       ],
@@ -2906,7 +2906,7 @@
             "last_commit": "2020-11-16T05:24:36Z",
             "owner": "trash80",
             "repo": "Arduinoboy",
-            "stars": 360
+            "stars": 361
           }
         },
         {
@@ -3285,7 +3285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-25T04:26:09.980Z",
+    "last_updated": "2026-03-26T04:38:29.762Z",
     "original_repository": "gbdev/awesome-gbdev",
     "source_repository": "v1nvn/enhansome-gbdev",
     "source_repository_description": null,
