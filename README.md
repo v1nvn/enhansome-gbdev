@@ -2,7 +2,7 @@
 
 #### [Join us on Discord](https://gbdev.io/chat.html) [![Discord Badge](https://img.shields.io/badge/dynamic/json.svg?label=chat\&colorB=green\&suffix=%20online\&query=presence_count\&uri=https://discordapp.com/api/guilds/303217943234215948/widget.json)](https://discord.gg/tKGMPNr)
 
-A curated list of awesome Game Boy (Color) Development resources, tools, docs, related projects and open-source ROMs. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 448,899 | 🐛 88 | 📅 2026-03-09 list thing.
+A curated list of awesome Game Boy (Color) Development resources, tools, docs, related projects and open-source ROMs. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 449,199 | 🐛 89 | 📅 2026-03-09 list thing.
 
 You can find a (way cooler) web version of this list [here](https://gbdev.github.io/resources).
 
@@ -120,7 +120,7 @@ You can find a (way cooler) web version of this list [here](https://gbdev.github
 
 ### Peripherals
 
-* [Edge of Emulation](https://shonumi.github.io/articles.html), a series of articles about emulating and investigating Game Boy accessories. Also available as [technical documents](https://github.com/shonumi/gbe-plus/tree/master/src/docs/technical) ⭐ 574 | 🐛 77 | 🌐 C++ | 📅 2026-02-18 in the GBE- emulator documentation.
+* [Edge of Emulation](https://shonumi.github.io/articles.html), a series of articles about emulating and investigating Game Boy accessories. Also available as [technical documents](https://github.com/shonumi/gbe-plus/tree/master/src/docs/technical) ⭐ 574 | 🐛 77 | 🌐 C++ | 📅 2026-03-26 in the GBE- emulator documentation.
   * [Mobile Adapter GB](https://shonumi.github.io/articles/art14.html) - Internet connectivity and DLC on the Game Boy Color.
   * [The Game Boy Printer](https://shonumi.github.io/articles/art2.html)
   * [Pocket Sonar](https://shonumi.github.io/articles/art13.html) - A blue cart with built-in sonar hardware.
@@ -215,13 +215,13 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 ### Assemblers
 
-* [RGBDS](https://github.com/gbdev/rgbds) ⭐ 1,582 | 🐛 71 | 🌐 C++ | 📅 2026-03-24 - Assembler and linker package. [Documentation](https://rgbds.gbdev.io).
+* [RGBDS](https://github.com/gbdev/rgbds) ⭐ 1,583 | 🐛 71 | 🌐 C++ | 📅 2026-03-26 - Assembler and linker package. [Documentation](https://rgbds.gbdev.io).
 * [wla-dx](https://github.com/vhelin/wla-dx) ⭐ 594 | 🐛 48 | 🌐 C | 📅 2026-03-23 - Yet Another GB-Z80/Z80/... Multi Platform Cross Assembler Package. [Documentation](http://www.villehelin.com/wla.txt).
 * [ASMotor](https://github.com/csoren/asmotor) ⭐ 88 | 🐛 2 | 🌐 C | 📅 2026-01-21 - Assembler engine and development system targeting Game Boy, among other CPUs. Written by the original RGBDS author. [Documentation](https://github.com/asmotor/asmotor/tree/develop#further-reading) ⭐ 88 | 🐛 2 | 🌐 C | 📅 2026-01-21.
 
 ### Compilers
 
-* [GBDK](https://github.com/gbdk-2020/gbdk-2020/) ⭐ 2,183 | 🐛 11 | 🌐 C | 📅 2026-03-16 - Maintained and modernized GBDK (Game Boy Development Kit) powered by an updated version of the SDCC toolchain. Provides a C compiler, assembler, linker and a set of libraries.
+* [GBDK](https://github.com/gbdk-2020/gbdk-2020/) ⭐ 2,184 | 🐛 11 | 🌐 C | 📅 2026-03-16 - Maintained and modernized GBDK (Game Boy Development Kit) powered by an updated version of the SDCC toolchain. Provides a C compiler, assembler, linker and a set of libraries.
   * [API docs: Getting Started](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_getting_started.html)
   * [Examples](https://github.com/mrombout/gbdk_playground) ⭐ 203 | 🐛 1 | 🌐 C | 📅 2025-09-30
   * [Documentation, links and tools](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_links_and_tools.html)
@@ -242,9 +242,9 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 ### Emulators
 
-* [mGBA](https://github.com/mgba-emu/mgba) ⭐ 6,912 | 🐛 824 | 🌐 C | 📅 2026-03-22 - Modern cross platform GBA emulator which also runs GB/GBC games.
+* [mGBA](https://github.com/mgba-emu/mgba) ⭐ 6,913 | 🐛 824 | 🌐 C | 📅 2026-03-22 - Modern cross platform GBA emulator which also runs GB/GBC games.
 
-* [SameBoy](https://github.com/LIJI32/SameBoy) ⭐ 2,045 | 🐛 151 | 🌐 C | 📅 2026-03-04 - Accurate emulator with a wide range of powerful debugging features.
+* [SameBoy](https://github.com/LIJI32/SameBoy) ⭐ 2,047 | 🐛 151 | 🌐 C | 📅 2026-03-04 - Accurate emulator with a wide range of powerful debugging features.
 
 * [MetroBoy](https://github.com/aappleby/MetroBoy) ⭐ 1,162 | 🐛 4 | 🌐 C++ | 📅 2025-02-23 - A playable, circuit-level simulation of an entire Game Boy.
 
@@ -252,7 +252,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 * [Binjgb](https://github.com/binji/binjgb) ⭐ 597 | 🐛 10 | 🌐 C | 📅 2026-01-05 - 5Kloc emulator that passes most of the tests. \*Rewind- feature. Runs in the browser using WebAssembly.
 
-* [gbe-plus](https://github.com/shonumi/gbe-plus) ⭐ 574 | 🐛 77 | 🌐 C++ | 📅 2026-02-18 - A recently rewritten emulator that has a large effort in preserving the functions of obscure accessories (such as IR link, Mobile Network GB, Barcode Boy, GB Printer, local and online GB Serial Link Cable, ... )
+* [gbe-plus](https://github.com/shonumi/gbe-plus) ⭐ 574 | 🐛 77 | 🌐 C++ | 📅 2026-03-26 - A recently rewritten emulator that has a large effort in preserving the functions of obscure accessories (such as IR link, Mobile Network GB, Barcode Boy, GB Printer, local and online GB Serial Link Cable, ... )
 
 * [Gambatte](https://github.com/gb-archive/gambatte) ⭐ 7 | 🐛 0 | 🌐 Assembly | 📅 2021-07-06 - Cross-platform and accurate emulator.
 
@@ -370,7 +370,7 @@ Fragments of code, effects, proof of concepts and generally non complete games.
 
 * [rgbds-vscode](https://github.com/DonaldHays/rgbds-vscode) ⭐ 79 | 🐛 4 | 🌐 TypeScript | 📅 2025-11-06 - Visual Studio Code language extension for RGBDS GBZ80 Assembly.
 * [Z80 Assembly support for Visual Studio Code](https://github.com/Imanolea/z80asm-vscode) ⭐ 36 | 🐛 0 | 📅 2025-08-16
-* [Vim syntax file for RGBDS](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) ⭐ 12 | 🐛 3 | 🌐 Lua | 📅 2026-03-25 - Another Vim syntax highlighting file for RGBDS assembly.
+* [Vim syntax file for RGBDS](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) ⭐ 12 | 🐛 3 | 🌐 Lua | 📅 2026-03-26 - Another Vim syntax highlighting file for RGBDS assembly.
 * [gbz80-highlight](https://github.com/ISSOtm/gbz80-highlight) ⚠️ Archived - Notepad+- and gedit syntax highlighting files for RGBDS assembly.
 * [rgbds-mode](https://github.com/japanoise/rgbds-mode) ⭐ 5 | 🐛 0 | 🌐 Emacs Lisp | 📅 2018-12-25 - Emacs major mode for RGBDS assembly.
 * [Vim syntax file for the Game Boy assembler RGBASM](http://www.vim.org/scripts/script.php?script_id=819) - Vim syntax highlighting for RGBDS assembly.
@@ -497,11 +497,11 @@ Complete and open source games.
 
 ### Game Disassemblies
 
-* [Pokémon Red/Blue](https://github.com/pret/pokered) ⭐ 4,633 | 🐛 21 | 🌐 Assembly | 📅 2026-01-24
-* [Pokémon Crystal](https://github.com/pret/pokecrystal) ⭐ 2,391 | 🐛 56 | 🌐 Assembly | 📅 2026-03-24
-* [Link's Awakening DX](https://github.com/mojobojo/LADX-Disassembly) ⭐ 880 | 🐛 18 | 🌐 Assembly | 📅 2026-02-05
-* [Pokémon Yellow](https://github.com/pret/pokeyellow) ⭐ 823 | 🐛 2 | 🌐 Assembly | 📅 2026-01-18
-* [Pokémon Gold and Silver](https://github.com/pret/pokegold) ⭐ 660 | 🐛 7 | 🌐 Assembly | 📅 2026-02-08
+* [Pokémon Red/Blue](https://github.com/pret/pokered) ⭐ 4,635 | 🐛 21 | 🌐 Assembly | 📅 2026-01-24
+* [Pokémon Crystal](https://github.com/pret/pokecrystal) ⭐ 2,392 | 🐛 56 | 🌐 Assembly | 📅 2026-03-24
+* [Link's Awakening DX](https://github.com/mojobojo/LADX-Disassembly) ⭐ 881 | 🐛 18 | 🌐 Assembly | 📅 2026-02-05
+* [Pokémon Yellow](https://github.com/pret/pokeyellow) ⭐ 824 | 🐛 2 | 🌐 Assembly | 📅 2026-01-18
+* [Pokémon Gold and Silver](https://github.com/pret/pokegold) ⭐ 661 | 🐛 7 | 🌐 Assembly | 📅 2026-02-08
 * [pokegold-spaceworld](https://github.com/pret/pokegold-spaceworld) ⭐ 380 | 🐛 13 | 🌐 Assembly | 📅 2026-01-21 - Pokémon Gold and Silver 1997 Space World demo.
 * [Pokémon TCG](https://github.com/pret/poketcg) ⭐ 308 | 🐛 4 | 🌐 Assembly | 📅 2026-02-15
 * [Oracle of Ages](https://github.com/drenn1/ages-disasm) ⭐ 196 | 🐛 4 | 🌐 Assembly | 📅 2026-03-08
