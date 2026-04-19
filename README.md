@@ -2,7 +2,7 @@
 
 #### [Join us on Discord](https://gbdev.io/chat.html) [![Discord Badge](https://img.shields.io/badge/dynamic/json.svg?label=chat\&colorB=green\&suffix=%20online\&query=presence_count\&uri=https://discordapp.com/api/guilds/303217943234215948/widget.json)](https://discord.gg/tKGMPNr)
 
-A curated list of awesome Game Boy (Color) Development resources, tools, docs, related projects and open-source ROMs. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 456,407 | 🐛 65 | 📅 2026-04-02 list thing.
+A curated list of awesome Game Boy (Color) Development resources, tools, docs, related projects and open-source ROMs. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 456,722 | 🐛 65 | 📅 2026-04-02 list thing.
 
 You can find a (way cooler) web version of this list [here](https://gbdev.github.io/resources).
 
@@ -67,7 +67,7 @@ You can find a (way cooler) web version of this list [here](https://gbdev.github
 >
 > #### Game Boy Advance
 >
-> Game Boy Advance development is covered by another project, the [awesome-gbadev](https://github.com/gbdev/awesome-gbadev) ⭐ 1,294 | 🐛 4 | 📅 2026-01-30 list.
+> Game Boy Advance development is covered by another project, the [awesome-gbadev](https://github.com/gbdev/awesome-gbadev) ⭐ 1,295 | 🐛 4 | 📅 2026-01-30 list.
 > GBA, however, *can run* GB/GBC games. It does so in a slightly different way compared to native hardware: this is covered in the Emulator Development section of this list.
 >
 > #### Game Boy Color and Super Game Boy
@@ -201,7 +201,7 @@ You can find a (way cooler) web version of this list [here](https://gbdev.github
 ### Testing
 
 * [144p Test Suite](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) ⭐ 282 | 🐛 7 | 🌐 Assembly | 📅 2025-09-02 - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
-* [dmg-acid2](https://github.com/mattcurrie/dmg-acid2) ⭐ 231 | 🐛 5 | 🌐 Assembly | 📅 2024-05-23 and [cgb-acid2](https://github.com/mattcurrie/cgb-acid2) ⭐ 86 | 🐛 0 | 🌐 Assembly | 📅 2021-02-26 - Basic PPU rendering tests.
+* [dmg-acid2](https://github.com/mattcurrie/dmg-acid2) ⭐ 232 | 🐛 5 | 🌐 Assembly | 📅 2024-05-23 and [cgb-acid2](https://github.com/mattcurrie/cgb-acid2) ⭐ 86 | 🐛 0 | 🌐 Assembly | 📅 2021-02-26 - Basic PPU rendering tests.
 * [Mealybug Tearoom Tests](https://github.com/mattcurrie/mealybug-tearoom-tests) ⭐ 68 | 🐛 0 | 🌐 Assembly | 📅 2020-12-19
 * [SameSuite](https://github.com/LIJI32/SameSuite) ⭐ 46 | 🐛 2 | 🌐 Assembly | 📅 2025-10-11
 * [MBC3 RTC test ROM](https://github.com/aaaaaa123456789/rtc3test) ⭐ 39 | 🐛 1 | 🌐 Assembly | 📅 2022-12-03
@@ -215,8 +215,8 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 ### Assemblers
 
-* [RGBDS](https://github.com/gbdev/rgbds) ⭐ 1,605 | 🐛 77 | 🌐 C++ | 📅 2026-04-17 - Assembler and linker package. [Documentation](https://rgbds.gbdev.io).
-* [wla-dx](https://github.com/vhelin/wla-dx) ⭐ 594 | 🐛 49 | 🌐 C | 📅 2026-04-09 - Yet Another GB-Z80/Z80/... Multi Platform Cross Assembler Package. [Documentation](http://www.villehelin.com/wla.txt).
+* [RGBDS](https://github.com/gbdev/rgbds) ⭐ 1,605 | 🐛 78 | 🌐 C++ | 📅 2026-04-17 - Assembler and linker package. [Documentation](https://rgbds.gbdev.io).
+* [wla-dx](https://github.com/vhelin/wla-dx) ⭐ 594 | 🐛 48 | 🌐 C | 📅 2026-04-09 - Yet Another GB-Z80/Z80/... Multi Platform Cross Assembler Package. [Documentation](http://www.villehelin.com/wla.txt).
 * [ASMotor](https://github.com/csoren/asmotor) ⭐ 89 | 🐛 2 | 🌐 C | 📅 2026-01-21 - Assembler engine and development system targeting Game Boy, among other CPUs. Written by the original RGBDS author. [Documentation](https://github.com/asmotor/asmotor/tree/develop#further-reading) ⭐ 89 | 🐛 2 | 🌐 C | 📅 2026-01-21.
 
 ### Compilers
@@ -242,7 +242,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 ### Emulators
 
-* [mGBA](https://github.com/mgba-emu/mgba) ⭐ 6,974 | 🐛 826 | 🌐 C | 📅 2026-04-17 - Modern cross platform GBA emulator which also runs GB/GBC games.
+* [mGBA](https://github.com/mgba-emu/mgba) ⭐ 6,974 | 🐛 825 | 🌐 C | 📅 2026-04-17 - Modern cross platform GBA emulator which also runs GB/GBC games.
 
 * [SameBoy](https://github.com/LIJI32/SameBoy) ⭐ 2,064 | 🐛 154 | 🌐 C | 📅 2026-03-04 - Accurate emulator with a wide range of powerful debugging features.
 
@@ -286,7 +286,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 * [Tilemap Studio](https://github.com/Rangi42/tilemap-studio) ⭐ 506 | 🐛 25 | 🌐 C++ | 📅 2025-09-12 - A tilemap editor for Game Boy, Color, Advance, and SNES projects. Written in C++ with FLTK.
 * [Superfamiconv](https://github.com/Optiroc/SuperFamiconv) ⭐ 182 | 🐛 22 | 🌐 C++ | 📅 2025-02-19 - Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive and PC Engine formats.
-* [Game Boy Tile Data Generator](https://github.com/chrisantonellis/gbtdg) ⭐ 92 | 🐛 4 | 🌐 JavaScript | 📅 2023-12-31 - HTML5 / JS web application that will convert bitmap images to hexadecimal data appropriate for use in tile based graphical applications, specifically GB.
+* [Game Boy Tile Data Generator](https://github.com/chrisantonellis/gbtdg) ⭐ 91 | 🐛 4 | 🌐 JavaScript | 📅 2023-12-31 - HTML5 / JS web application that will convert bitmap images to hexadecimal data appropriate for use in tile based graphical applications, specifically GB.
 * [Tilemap GB](https://github.com/bbbbbr/gimp-tilemap-gb) ⭐ 70 | 🐛 1 | 🌐 C | 📅 2024-04-16 - GIMP image editor plug-in for importing & exporting GBMB and GBTD tilemaps and tilesets (as bitmap images or .GBM/.GBR files).
 * [vtGBte](https://github.com/paul-arutyunov/vtGBte) ⭐ 36 | 🐛 4 | 🌐 C | 📅 2021-05-24 - A minimalistic ncurses tile editor.
 * [bmp2cgb](https://github.com/gitendo/bmp2cgb) ⚠️ Archived - Graphics converter for Game Boy Color development providing real time palette adjustments.
@@ -368,7 +368,7 @@ Fragments of code, effects, proof of concepts and generally non complete games.
 
 #### Syntax highlighting packages
 
-* [rgbds-vscode](https://github.com/DonaldHays/rgbds-vscode) ⭐ 79 | 🐛 4 | 🌐 TypeScript | 📅 2025-11-06 - Visual Studio Code language extension for RGBDS GBZ80 Assembly.
+* [rgbds-vscode](https://github.com/DonaldHays/rgbds-vscode) ⭐ 79 | 🐛 5 | 🌐 TypeScript | 📅 2025-11-06 - Visual Studio Code language extension for RGBDS GBZ80 Assembly.
 * [Z80 Assembly support for Visual Studio Code](https://github.com/Imanolea/z80asm-vscode) ⭐ 36 | 🐛 0 | 📅 2025-08-16
 * [Vim syntax file for RGBDS](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) ⭐ 11 | 🐛 3 | 🌐 Lua | 📅 2026-03-27 - Another Vim syntax highlighting file for RGBDS assembly.
 * [gbz80-highlight](https://github.com/ISSOtm/gbz80-highlight) ⚠️ Archived - Notepad+- and gedit syntax highlighting files for RGBDS assembly.
@@ -497,19 +497,19 @@ Complete and open source games.
 
 ### Game Disassemblies
 
-* [Pokémon Red/Blue](https://github.com/pret/pokered) ⭐ 4,665 | 🐛 21 | 🌐 Assembly | 📅 2026-04-15
-* [Pokémon Crystal](https://github.com/pret/pokecrystal) ⭐ 2,408 | 🐛 56 | 🌐 Assembly | 📅 2026-04-06
+* [Pokémon Red/Blue](https://github.com/pret/pokered) ⭐ 4,667 | 🐛 21 | 🌐 Assembly | 📅 2026-04-15
+* [Pokémon Crystal](https://github.com/pret/pokecrystal) ⭐ 2,410 | 🐛 56 | 🌐 Assembly | 📅 2026-04-06
 * [Link's Awakening DX](https://github.com/mojobojo/LADX-Disassembly) ⭐ 881 | 🐛 19 | 🌐 Assembly | 📅 2026-02-05
 * [Pokémon Yellow](https://github.com/pret/pokeyellow) ⭐ 830 | 🐛 2 | 🌐 Assembly | 📅 2026-04-15
 * [Pokémon Gold and Silver](https://github.com/pret/pokegold) ⭐ 670 | 🐛 7 | 🌐 Assembly | 📅 2026-02-08
 * [pokegold-spaceworld](https://github.com/pret/pokegold-spaceworld) ⭐ 382 | 🐛 15 | 🌐 Assembly | 📅 2026-04-13 - Pokémon Gold and Silver 1997 Space World demo.
 * [Pokémon TCG](https://github.com/pret/poketcg) ⭐ 309 | 🐛 4 | 🌐 Assembly | 📅 2026-04-15
-* [Oracle of Ages](https://github.com/drenn1/ages-disasm) ⭐ 198 | 🐛 1 | 🌐 Assembly | 📅 2026-04-06
+* [Oracle of Ages](https://github.com/drenn1/ages-disasm) ⭐ 199 | 🐛 1 | 🌐 Assembly | 📅 2026-04-06
 * [Pokémon Pinball](https://github.com/pret/pokepinball) ⭐ 188 | 🐛 4 | 🌐 Assembly | 📅 2025-11-14
 * [Tetris](https://github.com/vinheim3/tetris-gb-disasm) ⭐ 30 | 🐛 1 | 🌐 Assembly | 📅 2023-01-19 - Complete Tetris disassembly.
 * [Harvest Moon 3](https://github.com/sanqui/hm3) ⭐ 19 | 🐛 6 | 🌐 Assembly | 📅 2023-05-01
 * [FX Hammer](https://github.com/DevEd2/FXHammer-Disasm) ⭐ 9 | 🐛 0 | 🌐 Assembly | 📅 2022-03-09
-* [The Jungle Book](https://github.com/not-chciken/jungle-book-gb-disassembly) ⭐ 4 | 🐛 0 | 🌐 Assembly | 📅 2026-04-17
+* [The Jungle Book](https://github.com/not-chciken/jungle-book-gb-disassembly) ⭐ 4 | 🐛 0 | 🌐 Assembly | 📅 2026-04-18
 * [Final Fantasy Adventure](https://daid.github.io/FFA-Disassembly/)
 
 ## Game Boy Camera
@@ -604,7 +604,7 @@ See [LICENSE](origin/LICENSE) for more information.
 
 ### Acknowledgements
 
-Thanks to [every](https://github.com/avivace/awesome-gbdev/graphs/contributors) ⭐ 4,409 | 🐛 21 | 📅 2026-01-13 contributor of this project, Jeff Frohwein, Pascal Felber, KOOPa, Pan of Anthrox, GABY, Marat Fayzullin, Paul Robson, BOWSER, neviksti, Martin "nocash" Korth, Nitro2k01, Duo, Chris Antonellis, Michael Hope, Beware, Jonathan “Lord Nightmare” Gevaryahu, Carsten Sorense, Sindre Aamås, Otaku No Zoku, GeeBee.
+Thanks to [every](https://github.com/avivace/awesome-gbdev/graphs/contributors) ⭐ 4,411 | 🐛 21 | 📅 2026-01-13 contributor of this project, Jeff Frohwein, Pascal Felber, KOOPa, Pan of Anthrox, GABY, Marat Fayzullin, Paul Robson, BOWSER, neviksti, Martin "nocash" Korth, Nitro2k01, Duo, Chris Antonellis, Michael Hope, Beware, Jonathan “Lord Nightmare” Gevaryahu, Carsten Sorense, Sindre Aamås, Otaku No Zoku, GeeBee.
 
 ### Sponsors
 
