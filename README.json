@@ -532,7 +532,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-06T16:49:24Z",
+            "last_commit": "2026-05-10T00:53:07Z",
             "owner": "gbdev",
             "repo": "rgbds",
             "stars": 1604
@@ -557,8 +557,8 @@
           "title": "wla-dx",
           "repo_info": {
             "archived": false,
-            "language": "Assembly",
-            "last_commit": "2026-05-09T01:12:58Z",
+            "language": "C",
+            "last_commit": "2026-05-09T23:24:04Z",
             "owner": "vhelin",
             "repo": "wla-dx",
             "stars": 595
@@ -697,7 +697,7 @@
             "last_commit": "2026-03-04T21:40:17Z",
             "owner": "LIJI32",
             "repo": "SameBoy",
-            "stars": 2091
+            "stars": 2092
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2026-04-27T07:34:12Z",
             "owner": "mgba-emu",
             "repo": "mgba",
-            "stars": 7024
+            "stars": 7026
           }
         },
         {
@@ -1064,7 +1064,7 @@
             "last_commit": "2026-05-02T13:20:12Z",
             "owner": "Rangi42",
             "repo": "tilemap-studio",
-            "stars": 510
+            "stars": 511
           }
         },
         {
@@ -1906,7 +1906,7 @@
             "last_commit": "2026-01-25T18:27:55Z",
             "owner": "dannye",
             "repo": "pokered-gbc",
-            "stars": 174
+            "stars": 175
           }
         },
         {
@@ -2550,7 +2550,7 @@
             "last_commit": "2022-12-16T23:41:38Z",
             "owner": "pret",
             "repo": "pokemon-reverse-engineering-tools",
-            "stars": 350
+            "stars": 351
           }
         },
         {
@@ -2597,7 +2597,7 @@
             "last_commit": "2026-04-15T17:03:36Z",
             "owner": "pret",
             "repo": "pokered",
-            "stars": 4687
+            "stars": 4692
           }
         },
         {
@@ -2610,7 +2610,7 @@
             "last_commit": "2026-04-06T22:07:19Z",
             "owner": "pret",
             "repo": "pokecrystal",
-            "stars": 2416
+            "stars": 2419
           }
         },
         {
@@ -2623,7 +2623,7 @@
             "last_commit": "2026-04-15T17:07:26Z",
             "owner": "pret",
             "repo": "pokeyellow",
-            "stars": 834
+            "stars": 836
           }
         },
         {
@@ -2636,7 +2636,7 @@
             "last_commit": "2026-02-08T18:48:25Z",
             "owner": "pret",
             "repo": "pokegold",
-            "stars": 674
+            "stars": 675
           }
         },
         {
@@ -2646,7 +2646,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2025-11-14T05:17:30Z",
+            "last_commit": "2026-05-10T03:19:45Z",
             "owner": "pret",
             "repo": "pokepinball",
             "stars": 190
@@ -3036,7 +3036,7 @@
             "last_commit": "2025-02-18T09:07:06Z",
             "owner": "mattcurrie",
             "repo": "gb-save-states",
-            "stars": 179
+            "stars": 180
           }
         },
         {
@@ -3285,7 +3285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:27:13.004Z",
+    "last_updated": "2026-05-10T05:42:44.162Z",
     "original_repository": "gbdev/awesome-gbdev",
     "source_repository": "v1nvn/enhansome-gbdev",
     "source_repository_description": null,
