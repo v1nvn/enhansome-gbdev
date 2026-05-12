@@ -535,7 +535,7 @@
             "last_commit": "2026-05-10T00:53:07Z",
             "owner": "gbdev",
             "repo": "rgbds",
-            "stars": 1604
+            "stars": 1605
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2025-04-10T11:29:21Z",
             "owner": "wiz-lang",
             "repo": "wiz",
-            "stars": 430
+            "stars": 431
           }
         },
         {
@@ -697,7 +697,7 @@
             "last_commit": "2026-03-04T21:40:17Z",
             "owner": "LIJI32",
             "repo": "SameBoy",
-            "stars": 2094
+            "stars": 2095
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2026-04-27T07:34:12Z",
             "owner": "mgba-emu",
             "repo": "mgba",
-            "stars": 7029
+            "stars": 7030
           }
         },
         {
@@ -1611,7 +1611,7 @@
             "last_commit": "2025-04-22T08:44:05Z",
             "owner": "gb-archive",
             "repo": "salvage",
-            "stars": 38
+            "stars": 39
           }
         },
         {
@@ -2251,7 +2251,7 @@
             "last_commit": "2023-01-29T08:39:26Z",
             "owner": "SimonLarsen",
             "repo": "tobutobugirl-dx",
-            "stars": 89
+            "stars": 90
           }
         },
         {
@@ -2688,7 +2688,7 @@
             "last_commit": "2026-05-01T12:19:47Z",
             "owner": "zladx",
             "repo": "LADX-Disassembly",
-            "stars": 882
+            "stars": 883
           }
         },
         {
@@ -3190,7 +3190,7 @@
             "last_commit": "2022-12-10T01:05:49Z",
             "owner": "zephray",
             "repo": "VerilogBoy",
-            "stars": 525
+            "stars": 526
           }
         },
         {
@@ -3285,7 +3285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-11T06:04:45.513Z",
+    "last_updated": "2026-05-12T05:43:52.587Z",
     "original_repository": "gbdev/awesome-gbdev",
     "source_repository": "v1nvn/enhansome-gbdev",
     "source_repository_description": null,
