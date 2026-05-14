@@ -232,7 +232,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-12T15:13:15Z",
+            "last_commit": "2026-05-13T13:41:56Z",
             "owner": "mofosyne",
             "repo": "arduino-gameboy-printer-emulator",
             "stars": 363
@@ -561,7 +561,7 @@
             "last_commit": "2026-05-10T20:44:31Z",
             "owner": "vhelin",
             "repo": "wla-dx",
-            "stars": 595
+            "stars": 596
           }
         }
       ],
@@ -723,7 +723,7 @@
             "last_commit": "2026-04-27T07:34:12Z",
             "owner": "mgba-emu",
             "repo": "mgba",
-            "stars": 7029
+            "stars": 7030
           }
         },
         {
@@ -733,7 +733,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-13T02:41:38Z",
+            "last_commit": "2026-05-13T20:06:35Z",
             "owner": "binji",
             "repo": "binjgb",
             "stars": 600
@@ -2597,7 +2597,7 @@
             "last_commit": "2026-04-15T17:03:36Z",
             "owner": "pret",
             "repo": "pokered",
-            "stars": 4693
+            "stars": 4695
           }
         },
         {
@@ -2779,7 +2779,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-12T15:13:15Z",
+            "last_commit": "2026-05-13T13:41:56Z",
             "owner": "mofosyne",
             "repo": "arduino-gameboy-printer-emulator",
             "stars": 363
@@ -3285,7 +3285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T05:54:34.294Z",
+    "last_updated": "2026-05-14T05:54:00.171Z",
     "original_repository": "gbdev/awesome-gbdev",
     "source_repository": "v1nvn/enhansome-gbdev",
     "source_repository_description": null,
