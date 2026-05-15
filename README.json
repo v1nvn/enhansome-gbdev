@@ -532,7 +532,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-10T00:53:07Z",
+            "last_commit": "2026-05-14T12:47:24Z",
             "owner": "gbdev",
             "repo": "rgbds",
             "stars": 1606
@@ -558,7 +558,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-10T20:44:31Z",
+            "last_commit": "2026-05-15T00:08:43Z",
             "owner": "vhelin",
             "repo": "wla-dx",
             "stars": 596
@@ -673,7 +673,7 @@
             "last_commit": "2026-03-04T16:45:25Z",
             "owner": "zlfn",
             "repo": "rust-gb",
-            "stars": 257
+            "stars": 256
           }
         }
       ],
@@ -723,7 +723,7 @@
             "last_commit": "2026-04-27T07:34:12Z",
             "owner": "mgba-emu",
             "repo": "mgba",
-            "stars": 7030
+            "stars": 7031
           }
         },
         {
@@ -1763,7 +1763,7 @@
             "last_commit": "2026-01-25T01:04:17Z",
             "owner": "AntonioND",
             "repo": "ucity",
-            "stars": 473
+            "stars": 474
           }
         },
         {
@@ -2597,7 +2597,7 @@
             "last_commit": "2026-04-15T17:03:36Z",
             "owner": "pret",
             "repo": "pokered",
-            "stars": 4695
+            "stars": 4697
           }
         },
         {
@@ -2607,10 +2607,10 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-04-06T22:07:19Z",
+            "last_commit": "2026-05-14T19:26:46Z",
             "owner": "pret",
             "repo": "pokecrystal",
-            "stars": 2420
+            "stars": 2421
           }
         },
         {
@@ -2623,7 +2623,7 @@
             "last_commit": "2026-04-15T17:07:26Z",
             "owner": "pret",
             "repo": "pokeyellow",
-            "stars": 837
+            "stars": 838
           }
         },
         {
@@ -2636,7 +2636,7 @@
             "last_commit": "2026-02-08T18:48:25Z",
             "owner": "pret",
             "repo": "pokegold",
-            "stars": 675
+            "stars": 676
           }
         },
         {
@@ -2971,7 +2971,7 @@
             "last_commit": "2024-07-16T05:22:28Z",
             "owner": "trash80",
             "repo": "mGB",
-            "stars": 262
+            "stars": 263
           }
         },
         {
@@ -3285,7 +3285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-14T05:54:00.171Z",
+    "last_updated": "2026-05-15T06:00:27.982Z",
     "original_repository": "gbdev/awesome-gbdev",
     "source_repository": "v1nvn/enhansome-gbdev",
     "source_repository_description": null,
