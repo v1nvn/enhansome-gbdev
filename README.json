@@ -124,7 +124,7 @@
             "last_commit": "2026-04-10T23:31:10Z",
             "owner": "msinger",
             "repo": "dmg-schematics",
-            "stars": 38
+            "stars": 39
           }
         }
       ],
@@ -342,7 +342,7 @@
             "last_commit": "2026-05-05T14:46:29Z",
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5127
+            "stars": 5129
           }
         },
         {
@@ -558,7 +558,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-15T00:08:43Z",
+            "last_commit": "2026-05-15T16:14:25Z",
             "owner": "vhelin",
             "repo": "wla-dx",
             "stars": 596
@@ -585,7 +585,7 @@
             "last_commit": "2025-04-10T11:29:21Z",
             "owner": "wiz-lang",
             "repo": "wiz",
-            "stars": 431
+            "stars": 432
           }
         },
         {
@@ -697,7 +697,7 @@
             "last_commit": "2026-03-04T21:40:17Z",
             "owner": "LIJI32",
             "repo": "SameBoy",
-            "stars": 2095
+            "stars": 2096
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2026-04-27T07:34:12Z",
             "owner": "mgba-emu",
             "repo": "mgba",
-            "stars": 7031
+            "stars": 7035
           }
         },
         {
@@ -1237,7 +1237,7 @@
             "last_commit": "2026-04-15T20:25:51Z",
             "owner": "SuperDisk",
             "repo": "hUGETracker",
-            "stars": 352
+            "stars": 353
           }
         },
         {
@@ -1545,7 +1545,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-05-04T12:10:29Z",
+            "last_commit": "2026-05-15T16:51:44Z",
             "owner": "Leandros",
             "repo": "dotfiles",
             "stars": 11
@@ -2461,7 +2461,7 @@
             "last_commit": "2020-06-17T10:05:04Z",
             "owner": "mills32",
             "repo": "CUTE_DEMO",
-            "stars": 39
+            "stars": 40
           }
         },
         {
@@ -2597,7 +2597,7 @@
             "last_commit": "2026-04-15T17:03:36Z",
             "owner": "pret",
             "repo": "pokered",
-            "stars": 4697
+            "stars": 4700
           }
         },
         {
@@ -3285,7 +3285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-15T06:00:27.982Z",
+    "last_updated": "2026-05-16T05:32:28.203Z",
     "original_repository": "gbdev/awesome-gbdev",
     "source_repository": "v1nvn/enhansome-gbdev",
     "source_repository_description": null,
