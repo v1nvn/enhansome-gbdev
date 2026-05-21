@@ -75,7 +75,7 @@
             "last_commit": "2023-07-20T14:50:12Z",
             "owner": "Gekkio",
             "repo": "gb-hardware",
-            "stars": 368
+            "stars": 369
           }
         },
         {
@@ -532,7 +532,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-14T12:47:24Z",
+            "last_commit": "2026-05-20T21:20:50Z",
             "owner": "gbdev",
             "repo": "rgbds",
             "stars": 1611
@@ -697,7 +697,7 @@
             "last_commit": "2026-03-04T21:40:17Z",
             "owner": "LIJI32",
             "repo": "SameBoy",
-            "stars": 2098
+            "stars": 2099
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2026-05-20T05:36:54Z",
             "owner": "mgba-emu",
             "repo": "mgba",
-            "stars": 7046
+            "stars": 7049
           }
         },
         {
@@ -1064,7 +1064,7 @@
             "last_commit": "2026-05-02T13:20:12Z",
             "owner": "Rangi42",
             "repo": "tilemap-studio",
-            "stars": 511
+            "stars": 512
           }
         },
         {
@@ -2526,7 +2526,7 @@
             "last_commit": "2019-11-02T13:01:56Z",
             "owner": "LIJI32",
             "repo": "GBVideoPlayer2",
-            "stars": 129
+            "stars": 130
           }
         }
       ],
@@ -2597,7 +2597,7 @@
             "last_commit": "2026-04-15T17:03:36Z",
             "owner": "pret",
             "repo": "pokered",
-            "stars": 4707
+            "stars": 4708
           }
         },
         {
@@ -2610,7 +2610,7 @@
             "last_commit": "2026-05-14T19:26:46Z",
             "owner": "pret",
             "repo": "pokecrystal",
-            "stars": 2422
+            "stars": 2425
           }
         },
         {
@@ -2688,7 +2688,7 @@
             "last_commit": "2026-05-17T20:36:58Z",
             "owner": "zladx",
             "repo": "LADX-Disassembly",
-            "stars": 883
+            "stars": 884
           }
         },
         {
@@ -2755,7 +2755,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-05-19T07:05:13Z",
+            "last_commit": "2026-05-20T15:52:28Z",
             "owner": "not-chciken",
             "repo": "jungle-book-gb-disassembly",
             "stars": 4
@@ -3285,7 +3285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-20T06:15:24.476Z",
+    "last_updated": "2026-05-21T06:16:53.438Z",
     "original_repository": "gbdev/awesome-gbdev",
     "source_repository": "v1nvn/enhansome-gbdev",
     "source_repository_description": null,
