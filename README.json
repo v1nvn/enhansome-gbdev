@@ -189,7 +189,7 @@
             "last_commit": "2026-05-21T20:07:31Z",
             "owner": "shonumi",
             "repo": "gbe-plus",
-            "stars": 588
+            "stars": 587
           }
         },
         {
@@ -425,7 +425,7 @@
             "last_commit": "2024-10-06T07:04:03Z",
             "owner": "robert",
             "repo": "gameboy-doctor",
-            "stars": 274
+            "stars": 275
           }
         }
       ],
@@ -532,10 +532,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-21T21:13:09Z",
+            "last_commit": "2026-05-22T23:06:12Z",
             "owner": "gbdev",
             "repo": "rgbds",
-            "stars": 1611
+            "stars": 1612
           }
         },
         {
@@ -697,7 +697,7 @@
             "last_commit": "2026-03-04T21:40:17Z",
             "owner": "LIJI32",
             "repo": "SameBoy",
-            "stars": 2100
+            "stars": 2099
           }
         },
         {
@@ -710,7 +710,7 @@
             "last_commit": "2023-03-16T03:58:55Z",
             "owner": "Gekkio",
             "repo": "mooneye-gb",
-            "stars": 965
+            "stars": 966
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2026-05-20T05:36:54Z",
             "owner": "mgba-emu",
             "repo": "mgba",
-            "stars": 7050
+            "stars": 7053
           }
         },
         {
@@ -775,7 +775,7 @@
             "last_commit": "2026-05-21T20:07:31Z",
             "owner": "shonumi",
             "repo": "gbe-plus",
-            "stars": 588
+            "stars": 587
           }
         },
         {
@@ -2597,7 +2597,7 @@
             "last_commit": "2026-04-15T17:03:36Z",
             "owner": "pret",
             "repo": "pokered",
-            "stars": 4708
+            "stars": 4709
           }
         },
         {
@@ -2610,7 +2610,7 @@
             "last_commit": "2026-05-14T19:26:46Z",
             "owner": "pret",
             "repo": "pokecrystal",
-            "stars": 2426
+            "stars": 2427
           }
         },
         {
@@ -3285,7 +3285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-22T06:15:04.487Z",
+    "last_updated": "2026-05-23T05:44:46.035Z",
     "original_repository": "gbdev/awesome-gbdev",
     "source_repository": "v1nvn/enhansome-gbdev",
     "source_repository_description": null,
