@@ -342,7 +342,7 @@
             "last_commit": "2026-05-05T14:46:29Z",
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5136
+            "stars": 5137
           }
         },
         {
@@ -532,10 +532,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-26T04:12:11Z",
+            "last_commit": "2026-05-28T02:01:21Z",
             "owner": "gbdev",
             "repo": "rgbds",
-            "stars": 1613
+            "stars": 1614
           }
         },
         {
@@ -762,7 +762,7 @@
             "last_commit": "2025-02-23T03:36:26Z",
             "owner": "aappleby",
             "repo": "metroboy",
-            "stars": 1163
+            "stars": 1164
           }
         },
         {
@@ -1064,7 +1064,7 @@
             "last_commit": "2026-05-02T13:20:12Z",
             "owner": "Rangi42",
             "repo": "tilemap-studio",
-            "stars": 512
+            "stars": 511
           }
         },
         {
@@ -1279,7 +1279,7 @@
             "last_commit": "2026-01-01T14:20:45Z",
             "owner": "gbdev",
             "repo": "hardware.inc",
-            "stars": 155
+            "stars": 156
           }
         },
         {
@@ -2597,7 +2597,7 @@
             "last_commit": "2026-05-24T14:47:30Z",
             "owner": "pret",
             "repo": "pokered",
-            "stars": 4719
+            "stars": 4723
           }
         },
         {
@@ -2623,7 +2623,7 @@
             "last_commit": "2026-05-24T14:56:31Z",
             "owner": "pret",
             "repo": "pokeyellow",
-            "stars": 843
+            "stars": 845
           }
         },
         {
@@ -3107,7 +3107,7 @@
             "last_commit": "2024-05-02T21:08:24Z",
             "owner": "stijnfrishert",
             "repo": "libLSDJ",
-            "stars": 110
+            "stars": 111
           }
         },
         {
@@ -3120,7 +3120,7 @@
             "last_commit": "2025-10-19T19:04:01Z",
             "owner": "jkotlinski",
             "repo": "lsdpatch",
-            "stars": 211
+            "stars": 212
           }
         },
         {
@@ -3190,7 +3190,7 @@
             "last_commit": "2022-12-10T01:05:49Z",
             "owner": "zephray",
             "repo": "VerilogBoy",
-            "stars": 526
+            "stars": 527
           }
         },
         {
@@ -3285,7 +3285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-27T06:27:09.666Z",
+    "last_updated": "2026-05-28T06:19:12.387Z",
     "original_repository": "gbdev/awesome-gbdev",
     "source_repository": "v1nvn/enhansome-gbdev",
     "source_repository_description": null,
