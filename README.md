@@ -2,7 +2,7 @@
 
 #### [Join us on Discord](https://gbdev.io/chat.html) [![Discord Badge](https://img.shields.io/badge/dynamic/json.svg?label=chat\&colorB=green\&suffix=%20online\&query=presence_count\&uri=https://discordapp.com/api/guilds/303217943234215948/widget.json)](https://discord.gg/tKGMPNr)
 
-A curated list of awesome Game Boy (Color) Development resources, tools, docs, related projects and open-source ROMs. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 470,987 | 🐛 79 | 📅 2026-05-05 list thing.
+A curated list of awesome Game Boy (Color) Development resources, tools, docs, related projects and open-source ROMs. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 471,267 | 🐛 79 | 📅 2026-05-05 list thing.
 
 You can find a (way cooler) web version of this list [here](https://gbdev.github.io/resources).
 
@@ -67,7 +67,7 @@ You can find a (way cooler) web version of this list [here](https://gbdev.github
 >
 > #### Game Boy Advance
 >
-> Game Boy Advance development is covered by another project, the [awesome-gbadev](https://github.com/gbdev/awesome-gbadev) ⭐ 1,305 | 🐛 6 | 📅 2026-01-30 list.
+> Game Boy Advance development is covered by another project, the [awesome-gbadev](https://github.com/gbdev/awesome-gbadev) ⭐ 1,306 | 🐛 6 | 📅 2026-01-30 list.
 > GBA, however, *can run* GB/GBC games. It does so in a slightly different way compared to native hardware: this is covered in the Emulator Development section of this list.
 >
 > #### Game Boy Color and Super Game Boy
@@ -120,7 +120,7 @@ You can find a (way cooler) web version of this list [here](https://gbdev.github
 
 ### Peripherals
 
-* [Edge of Emulation](https://shonumi.github.io/articles.html), a series of articles about emulating and investigating Game Boy accessories. Also available as [technical documents](https://github.com/shonumi/gbe-plus/tree/master/src/docs/technical) ⭐ 588 | 🐛 79 | 🌐 C++ | 📅 2026-05-21 in the GBE- emulator documentation.
+* [Edge of Emulation](https://shonumi.github.io/articles.html), a series of articles about emulating and investigating Game Boy accessories. Also available as [technical documents](https://github.com/shonumi/gbe-plus/tree/master/src/docs/technical) ⭐ 589 | 🐛 79 | 🌐 C++ | 📅 2026-05-21 in the GBE- emulator documentation.
   * [Mobile Adapter GB](https://shonumi.github.io/articles/art14.html) - Internet connectivity and DLC on the Game Boy Color.
   * [The Game Boy Printer](https://shonumi.github.io/articles/art2.html)
   * [Pocket Sonar](https://shonumi.github.io/articles/art13.html) - A blue cart with built-in sonar hardware.
@@ -215,13 +215,13 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 ### Assemblers
 
-* [RGBDS](https://github.com/gbdev/rgbds) ⭐ 1,615 | 🐛 76 | 🌐 C++ | 📅 2026-05-28 - Assembler and linker package. [Documentation](https://rgbds.gbdev.io).
+* [RGBDS](https://github.com/gbdev/rgbds) ⭐ 1,616 | 🐛 76 | 🌐 C++ | 📅 2026-05-28 - Assembler and linker package. [Documentation](https://rgbds.gbdev.io).
 * [wla-dx](https://github.com/vhelin/wla-dx) ⭐ 597 | 🐛 40 | 🌐 Assembly | 📅 2026-05-26 - Yet Another GB-Z80/Z80/... Multi Platform Cross Assembler Package. [Documentation](http://www.villehelin.com/wla.txt).
 * [ASMotor](https://github.com/csoren/asmotor) ⭐ 89 | 🐛 2 | 🌐 C | 📅 2026-01-21 - Assembler engine and development system targeting Game Boy, among other CPUs. Written by the original RGBDS author. [Documentation](https://github.com/asmotor/asmotor/tree/develop#further-reading) ⭐ 89 | 🐛 2 | 🌐 C | 📅 2026-01-21.
 
 ### Compilers
 
-* [GBDK](https://github.com/gbdk-2020/gbdk-2020/) ⭐ 2,235 | 🐛 12 | 🌐 C | 📅 2026-05-27 - Maintained and modernized GBDK (Game Boy Development Kit) powered by an updated version of the SDCC toolchain. Provides a C compiler, assembler, linker and a set of libraries.
+* [GBDK](https://github.com/gbdk-2020/gbdk-2020/) ⭐ 2,237 | 🐛 11 | 🌐 C | 📅 2026-05-29 - Maintained and modernized GBDK (Game Boy Development Kit) powered by an updated version of the SDCC toolchain. Provides a C compiler, assembler, linker and a set of libraries.
   * [API docs: Getting Started](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_getting_started.html)
   * [Examples](https://github.com/mrombout/gbdk_playground) ⭐ 205 | 🐛 1 | 🌐 C | 📅 2025-09-30
   * [Documentation, links and tools](https://gbdk-2020.github.io/gbdk-2020/docs/api/docs_links_and_tools.html)
@@ -230,7 +230,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 #### Experimental/Proof of Concepts
 
 * [Wiz](https://github.com/wiz-lang/wiz) ⭐ 432 | 🐛 75 | 🌐 C++ | 📅 2025-04-10 - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more).
-* [Rust-GB](https://github.com/zlfn/rust-gb) ⭐ 257 | 🐛 3 | 🌐 Rust | 📅 2026-03-04 - A compiler and library that enable the development of GB ROMs using Rust.
+* [Rust-GB](https://github.com/zlfn/rust-gb) ⭐ 256 | 🐛 3 | 🌐 Rust | 📅 2026-03-04 - A compiler and library that enable the development of GB ROMs using Rust.
 * [gbforth](https://github.com/ams-hackers/gbforth) ⭐ 148 | 🐛 75 | 🌐 Forth | 📅 2025-10-09 - A Forth-based Game Boy development kit.
 * [gbasm](https://github.com/BonsaiDen/gbasm) ⭐ 132 | 🐛 1 | 🌐 JavaScript | 📅 2018-05-27 - A JavaScript based compiler for Game Boy z80 assembly code.
 * [Assembler](https://github.com/ulrikdamm/Assembler) ⭐ 119 | 🐛 0 | 🌐 Swift | 📅 2021-10-21 - Assembler written in Swift.
@@ -242,7 +242,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 ### Emulators
 
-* [mGBA](https://github.com/mgba-emu/mgba) ⭐ 7,064 | 🐛 840 | 🌐 C | 📅 2026-05-20 - Modern cross platform GBA emulator which also runs GB/GBC games.
+* [mGBA](https://github.com/mgba-emu/mgba) ⭐ 7,068 | 🐛 840 | 🌐 C | 📅 2026-05-20 - Modern cross platform GBA emulator which also runs GB/GBC games.
 
 * [SameBoy](https://github.com/LIJI32/SameBoy) ⭐ 2,102 | 🐛 157 | 🌐 C | 📅 2026-03-04 - Accurate emulator with a wide range of powerful debugging features.
 
@@ -252,7 +252,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 * [Binjgb](https://github.com/binji/binjgb) ⭐ 601 | 🐛 13 | 🌐 C | 📅 2026-05-26 - 5Kloc emulator that passes most of the tests. \*Rewind- feature. Runs in the browser using WebAssembly.
 
-* [gbe-plus](https://github.com/shonumi/gbe-plus) ⭐ 588 | 🐛 79 | 🌐 C++ | 📅 2026-05-21 - A recently rewritten emulator that has a large effort in preserving the functions of obscure accessories (such as IR link, Mobile Network GB, Barcode Boy, GB Printer, local and online GB Serial Link Cable, ... )
+* [gbe-plus](https://github.com/shonumi/gbe-plus) ⭐ 589 | 🐛 79 | 🌐 C++ | 📅 2026-05-21 - A recently rewritten emulator that has a large effort in preserving the functions of obscure accessories (such as IR link, Mobile Network GB, Barcode Boy, GB Printer, local and online GB Serial Link Cable, ... )
 
 * [Gambatte](https://github.com/gb-archive/gambatte) ⭐ 7 | 🐛 0 | 🌐 Assembly | 📅 2021-07-06 - Cross-platform and accurate emulator.
 
@@ -284,7 +284,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 #### Graphics utilities
 
-* [Tilemap Studio](https://github.com/Rangi42/tilemap-studio) ⭐ 511 | 🐛 25 | 🌐 C++ | 📅 2026-05-02 - A tilemap editor for Game Boy, Color, Advance, and SNES projects. Written in C++ with FLTK.
+* [Tilemap Studio](https://github.com/Rangi42/tilemap-studio) ⭐ 512 | 🐛 25 | 🌐 C++ | 📅 2026-05-02 - A tilemap editor for Game Boy, Color, Advance, and SNES projects. Written in C++ with FLTK.
 * [Superfamiconv](https://github.com/Optiroc/SuperFamiconv) ⭐ 183 | 🐛 22 | 🌐 C++ | 📅 2025-02-19 - Flexible and composable tile graphics converter supporting Super Nintendo, Game Boy, Game Boy Color, Game Boy Advance, Mega Drive and PC Engine formats.
 * [Game Boy Tile Data Generator](https://github.com/chrisantonellis/gbtdg) ⭐ 91 | 🐛 4 | 🌐 JavaScript | 📅 2023-12-31 - HTML5 / JS web application that will convert bitmap images to hexadecimal data appropriate for use in tile based graphical applications, specifically GB.
 * [Tilemap GB](https://github.com/bbbbbr/gimp-tilemap-gb) ⭐ 71 | 🐛 1 | 🌐 C | 📅 2024-04-16 - GIMP image editor plug-in for importing & exporting GBMB and GBTD tilemaps and tilesets (as bitmap images or .GBM/.GBR files).
@@ -309,7 +309,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 #### Music drivers and trackers
 
-* [hUGETracker](https://github.com/SuperDisk/hUGETracker) ⭐ 354 | 🐛 42 | 🌐 Pascal | 📅 2026-04-15 - A music tracker based on OpenMPT, focused on ease of use, compact output, and embeddability in homebrew games.
+* [hUGETracker](https://github.com/SuperDisk/hUGETracker) ⭐ 355 | 🐛 42 | 🌐 Pascal | 📅 2026-04-15 - A music tracker based on OpenMPT, focused on ease of use, compact output, and embeddability in homebrew games.
 * [GBT PLAYER](https://github.com/AntonioND/gbt-player) ⭐ 305 | 🐛 0 | 🌐 C | 📅 2026-01-25 - A music player library and converter kit.
 * [mmlgb](https://github.com/SimonLarsen/mmlgb) ⭐ 43 | 🐛 6 | 🌐 C | 📅 2024-04-12 - A MML parser and GBDK sound driver for the Nintendo Game Boy.
 * [CBT-FX](https://github.com/datguywitha3ds/CBT-FX) ⚠️ Archived - A GBDK-2020 sound effect driver compatible with FX-Hammer sound effects.
@@ -497,9 +497,9 @@ Complete and open source games.
 
 ### Game Disassemblies
 
-* [Pokémon Red/Blue](https://github.com/pret/pokered) ⭐ 4,723 | 🐛 21 | 🌐 Assembly | 📅 2026-05-24
-* [Pokémon Crystal](https://github.com/pret/pokecrystal) ⭐ 2,433 | 🐛 61 | 🌐 Assembly | 📅 2026-05-14
-* [Link's Awakening DX](https://github.com/mojobojo/LADX-Disassembly) ⭐ 885 | 🐛 19 | 🌐 Assembly | 📅 2026-05-17
+* [Pokémon Red/Blue](https://github.com/pret/pokered) ⭐ 4,725 | 🐛 21 | 🌐 Assembly | 📅 2026-05-24
+* [Pokémon Crystal](https://github.com/pret/pokecrystal) ⭐ 2,435 | 🐛 61 | 🌐 Assembly | 📅 2026-05-14
+* [Link's Awakening DX](https://github.com/mojobojo/LADX-Disassembly) ⭐ 885 | 🐛 20 | 🌐 Assembly | 📅 2026-05-17
 * [Pokémon Yellow](https://github.com/pret/pokeyellow) ⭐ 847 | 🐛 3 | 🌐 Assembly | 📅 2026-05-24
 * [Pokémon Gold and Silver](https://github.com/pret/pokegold) ⭐ 680 | 🐛 8 | 🌐 Assembly | 📅 2026-02-08
 * [pokegold-spaceworld](https://github.com/pret/pokegold-spaceworld) ⭐ 385 | 🐛 17 | 🌐 Assembly | 📅 2026-04-13 - Pokémon Gold and Silver 1997 Space World demo.
@@ -549,7 +549,7 @@ Methods to improve and/or manipulate the camera's quality and behavior:
 * [GBxCart-RW](https://github.com/insidegadgets/GBxCart-RW) ⭐ 106 | 🐛 4 | 🌐 C | 📅 2022-12-29 - A device for reading game ROMs, save games and restoring saves for GB, GBC and GBA carts from your PC via USB.
 * [Game Boy Link Cable Breakout Board](https://github.com/Palmr/gb-link-cable) ⭐ 104 | 🐛 0 | 📅 2022-08-18
 * [fpgaboy](https://github.com/trun/fpgaboy) ⭐ 100 | 🐛 3 | 🌐 Verilog | 📅 2016-09-10 - Implementation Nintendo's Game Boy console on an FPGA.
-* [GBCamcorder](https://github.com/furrtek/GBCamcorder) ⭐ 96 | 🐛 3 | 🌐 C | 📅 2021-12-20 - Lo-Fi portable video recorder using a GameBoy Camera cartridge.
+* [GBCamcorder](https://github.com/furrtek/GBCamcorder) ⭐ 97 | 🐛 3 | 🌐 C | 📅 2021-12-20 - Lo-Fi portable video recorder using a GameBoy Camera cartridge.
 * [GBCartRead](https://github.com/insidegadgets/GBCartRead) ⭐ 69 | 🐛 2 | 🌐 Eagle | 📅 2016-07-21 - Read ROM, Read RAM or Write RAM from/to a GameBoy Cartridge.
 * [Piglet](https://github.com/danShumway/Piglet) ⭐ 45 | 🐛 3 | 🌐 Lua | 📅 2014-12-08 - A LUA-driven AI that plays classic Game Boy color games using experimentation. In active development.
 * [Ostrich](https://github.com/PumpMagic/ostrich) ⭐ 43 | 🐛 0 | 🌐 Swift | 📅 2017-06-09 - A Game Boy Sound System player written in Swift.
@@ -604,7 +604,7 @@ See [LICENSE](origin/LICENSE) for more information.
 
 ### Acknowledgements
 
-Thanks to [every](https://github.com/avivace/awesome-gbdev/graphs/contributors) ⭐ 4,435 | 🐛 23 | 📅 2026-05-01 contributor of this project, Jeff Frohwein, Pascal Felber, KOOPa, Pan of Anthrox, GABY, Marat Fayzullin, Paul Robson, BOWSER, neviksti, Martin "nocash" Korth, Nitro2k01, Duo, Chris Antonellis, Michael Hope, Beware, Jonathan “Lord Nightmare” Gevaryahu, Carsten Sorense, Sindre Aamås, Otaku No Zoku, GeeBee.
+Thanks to [every](https://github.com/avivace/awesome-gbdev/graphs/contributors) ⭐ 4,437 | 🐛 23 | 📅 2026-05-01 contributor of this project, Jeff Frohwein, Pascal Felber, KOOPa, Pan of Anthrox, GABY, Marat Fayzullin, Paul Robson, BOWSER, neviksti, Martin "nocash" Korth, Nitro2k01, Duo, Chris Antonellis, Michael Hope, Beware, Jonathan “Lord Nightmare” Gevaryahu, Carsten Sorense, Sindre Aamås, Otaku No Zoku, GeeBee.
 
 ### Sponsors
 
