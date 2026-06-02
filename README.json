@@ -300,7 +300,7 @@
             "last_commit": "2024-06-06T09:18:20Z",
             "owner": "zephray",
             "repo": "NekoCart-GB",
-            "stars": 138
+            "stars": 137
           }
         },
         {
@@ -535,7 +535,7 @@
             "last_commit": "2026-05-28T02:01:21Z",
             "owner": "gbdev",
             "repo": "rgbds",
-            "stars": 1618
+            "stars": 1617
           }
         },
         {
@@ -558,7 +558,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-05-26T00:40:27Z",
+            "last_commit": "2026-06-01T22:33:23Z",
             "owner": "vhelin",
             "repo": "wla-dx",
             "stars": 597
@@ -720,10 +720,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-20T05:36:54Z",
+            "last_commit": "2026-06-01T07:32:57Z",
             "owner": "mgba-emu",
             "repo": "mgba",
-            "stars": 7073
+            "stars": 7075
           }
         },
         {
@@ -1279,7 +1279,7 @@
             "last_commit": "2026-01-01T14:20:45Z",
             "owner": "gbdev",
             "repo": "hardware.inc",
-            "stars": 156
+            "stars": 157
           }
         },
         {
@@ -2418,6 +2418,19 @@
           "children": [],
           "description": null,
           "title": "DMG Deals Damage"
+        },
+        {
+          "children": [],
+          "description": "TOTP (RFC 6238) two-factor authenticator with SGB border, GBC palettes and an MBC3 RTC clock.",
+          "title": "totp-gb",
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-14T23:15:10Z",
+            "owner": "dmang-dev",
+            "repo": "totp-gb",
+            "stars": 2
+          }
         }
       ],
       "title": "C"
@@ -2610,7 +2623,7 @@
             "last_commit": "2026-05-14T19:26:46Z",
             "owner": "pret",
             "repo": "pokecrystal",
-            "stars": 2442
+            "stars": 2443
           }
         },
         {
@@ -2688,7 +2701,7 @@
             "last_commit": "2026-05-31T10:19:11Z",
             "owner": "zladx",
             "repo": "LADX-Disassembly",
-            "stars": 885
+            "stars": 886
           }
         },
         {
@@ -2850,7 +2863,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2025-09-30T10:11:58Z",
+            "last_commit": "2026-06-01T14:32:48Z",
             "owner": "Raphael-Boichot",
             "repo": "GameboyPrinterPaperSimulation",
             "stars": 83
@@ -2863,7 +2876,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-16T10:44:16Z",
+            "last_commit": "2026-06-01T23:10:55Z",
             "owner": "HerrZatacke",
             "repo": "gb-printer-web",
             "stars": 70
@@ -2906,7 +2919,7 @@
             "last_commit": "2020-11-16T05:24:36Z",
             "owner": "trash80",
             "repo": "Arduinoboy",
-            "stars": 364
+            "stars": 365
           }
         },
         {
@@ -2971,7 +2984,7 @@
             "last_commit": "2024-07-16T05:22:28Z",
             "owner": "trash80",
             "repo": "mGB",
-            "stars": 264
+            "stars": 265
           }
         },
         {
@@ -3120,7 +3133,7 @@
             "last_commit": "2025-10-19T19:04:01Z",
             "owner": "jkotlinski",
             "repo": "lsdpatch",
-            "stars": 213
+            "stars": 214
           }
         },
         {
@@ -3285,7 +3298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-01T07:08:30.474Z",
+    "last_updated": "2026-06-02T06:48:46.823Z",
     "original_repository": "gbdev/awesome-gbdev",
     "source_repository": "v1nvn/enhansome-gbdev",
     "source_repository_description": null,
