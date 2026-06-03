@@ -189,7 +189,7 @@
             "last_commit": "2026-05-21T20:07:31Z",
             "owner": "shonumi",
             "repo": "gbe-plus",
-            "stars": 589
+            "stars": 590
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-05-05T14:46:29Z",
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5140
+            "stars": 5141
           }
         },
         {
@@ -670,7 +670,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-03-04T16:45:25Z",
+            "last_commit": "2026-06-02T13:50:50Z",
             "owner": "zlfn",
             "repo": "rust-gb",
             "stars": 256
@@ -697,7 +697,7 @@
             "last_commit": "2026-03-04T21:40:17Z",
             "owner": "LIJI32",
             "repo": "SameBoy",
-            "stars": 2103
+            "stars": 2104
           }
         },
         {
@@ -720,10 +720,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-06-01T07:32:57Z",
+            "last_commit": "2026-06-02T07:12:53Z",
             "owner": "mgba-emu",
             "repo": "mgba",
-            "stars": 7075
+            "stars": 7076
           }
         },
         {
@@ -775,7 +775,7 @@
             "last_commit": "2026-05-21T20:07:31Z",
             "owner": "shonumi",
             "repo": "gbe-plus",
-            "stars": 589
+            "stars": 590
           }
         },
         {
@@ -2563,7 +2563,7 @@
             "last_commit": "2022-12-16T23:41:38Z",
             "owner": "pret",
             "repo": "pokemon-reverse-engineering-tools",
-            "stars": 351
+            "stars": 350
           }
         },
         {
@@ -2610,7 +2610,7 @@
             "last_commit": "2026-05-24T14:47:30Z",
             "owner": "pret",
             "repo": "pokered",
-            "stars": 4733
+            "stars": 4735
           }
         },
         {
@@ -2636,7 +2636,7 @@
             "last_commit": "2026-05-24T14:56:31Z",
             "owner": "pret",
             "repo": "pokeyellow",
-            "stars": 848
+            "stars": 847
           }
         },
         {
@@ -2662,7 +2662,7 @@
             "last_commit": "2026-05-10T03:19:45Z",
             "owner": "pret",
             "repo": "pokepinball",
-            "stars": 192
+            "stars": 191
           }
         },
         {
@@ -2675,7 +2675,7 @@
             "last_commit": "2026-05-24T19:39:04Z",
             "owner": "pret",
             "repo": "poketcg",
-            "stars": 317
+            "stars": 316
           }
         },
         {
@@ -2688,7 +2688,7 @@
             "last_commit": "2026-04-13T02:13:30Z",
             "owner": "pret",
             "repo": "pokegold-spaceworld",
-            "stars": 385
+            "stars": 384
           }
         },
         {
@@ -2698,7 +2698,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-05-31T10:19:11Z",
+            "last_commit": "2026-06-03T03:08:34Z",
             "owner": "zladx",
             "repo": "LADX-Disassembly",
             "stars": 886
@@ -2863,7 +2863,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-01T14:32:48Z",
+            "last_commit": "2026-06-02T11:13:11Z",
             "owner": "Raphael-Boichot",
             "repo": "GameboyPrinterPaperSimulation",
             "stars": 83
@@ -3242,7 +3242,7 @@
             "last_commit": "2022-12-29T01:39:44Z",
             "owner": "insidegadgets",
             "repo": "GBxCart-RW",
-            "stars": 106
+            "stars": 107
           }
         },
         {
@@ -3298,7 +3298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-02T06:48:46.823Z",
+    "last_updated": "2026-06-03T07:00:20.181Z",
     "original_repository": "gbdev/awesome-gbdev",
     "source_repository": "v1nvn/enhansome-gbdev",
     "source_repository_description": null,
