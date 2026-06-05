@@ -2,7 +2,7 @@
 
 #### [Join us on Discord](https://gbdev.io/chat.html) [![Discord Badge](https://img.shields.io/badge/dynamic/json.svg?label=chat\&colorB=green\&suffix=%20online\&query=presence_count\&uri=https://discordapp.com/api/guilds/303217943234215948/widget.json)](https://discord.gg/tKGMPNr)
 
-A curated list of awesome Game Boy (Color) Development resources, tools, docs, related projects and open-source ROMs. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 472,735 | 🐛 82 | 📅 2026-06-02 list thing.
+A curated list of awesome Game Boy (Color) Development resources, tools, docs, related projects and open-source ROMs. Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 473,035 | 🐛 83 | 📅 2026-06-02 list thing.
 
 You can find a (way cooler) web version of this list [here](https://gbdev.github.io/resources).
 
@@ -67,7 +67,7 @@ You can find a (way cooler) web version of this list [here](https://gbdev.github
 >
 > #### Game Boy Advance
 >
-> Game Boy Advance development is covered by another project, the [awesome-gbadev](https://github.com/gbdev/awesome-gbadev) ⭐ 1,308 | 🐛 6 | 📅 2026-01-30 list.
+> Game Boy Advance development is covered by another project, the [awesome-gbadev](https://github.com/gbdev/awesome-gbadev) ⭐ 1,309 | 🐛 6 | 📅 2026-01-30 list.
 > GBA, however, *can run* GB/GBC games. It does so in a slightly different way compared to native hardware: this is covered in the Emulator Development section of this list.
 >
 > #### Game Boy Color and Super Game Boy
@@ -200,7 +200,7 @@ You can find a (way cooler) web version of this list [here](https://gbdev.github
 
 ### Testing
 
-* [144p Test Suite](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) ⭐ 286 | 🐛 7 | 🌐 Assembly | 📅 2025-09-02 - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
+* [144p Test Suite](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) ⭐ 287 | 🐛 7 | 🌐 Assembly | 📅 2025-09-02 - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
 * [dmg-acid2](https://github.com/mattcurrie/dmg-acid2) ⭐ 236 | 🐛 6 | 🌐 Assembly | 📅 2024-05-23 and [cgb-acid2](https://github.com/mattcurrie/cgb-acid2) ⭐ 87 | 🐛 1 | 🌐 Assembly | 📅 2021-02-26 - Basic PPU rendering tests.
 * [Mealybug Tearoom Tests](https://github.com/mattcurrie/mealybug-tearoom-tests) ⭐ 70 | 🐛 0 | 🌐 Assembly | 📅 2020-12-19
 * [SameSuite](https://github.com/LIJI32/SameSuite) ⭐ 48 | 🐛 2 | 🌐 Assembly | 📅 2025-10-11
@@ -215,7 +215,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 ### Assemblers
 
-* [RGBDS](https://github.com/gbdev/rgbds) ⭐ 1,617 | 🐛 77 | 🌐 C++ | 📅 2026-05-28 - Assembler and linker package. [Documentation](https://rgbds.gbdev.io).
+* [RGBDS](https://github.com/gbdev/rgbds) ⭐ 1,618 | 🐛 77 | 🌐 C++ | 📅 2026-05-28 - Assembler and linker package. [Documentation](https://rgbds.gbdev.io).
 * [wla-dx](https://github.com/vhelin/wla-dx) ⭐ 597 | 🐛 41 | 🌐 Assembly | 📅 2026-06-01 - Yet Another GB-Z80/Z80/... Multi Platform Cross Assembler Package. [Documentation](http://www.villehelin.com/wla.txt).
 * [ASMotor](https://github.com/csoren/asmotor) ⭐ 89 | 🐛 2 | 🌐 C | 📅 2026-01-21 - Assembler engine and development system targeting Game Boy, among other CPUs. Written by the original RGBDS author. [Documentation](https://github.com/asmotor/asmotor/tree/develop#further-reading) ⭐ 89 | 🐛 2 | 🌐 C | 📅 2026-01-21.
 
@@ -230,7 +230,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 #### Experimental/Proof of Concepts
 
 * [Wiz](https://github.com/wiz-lang/wiz) ⭐ 432 | 🐛 75 | 🌐 C++ | 📅 2025-04-10 - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more).
-* [Rust-GB](https://github.com/zlfn/rust-gb) ⭐ 256 | 🐛 3 | 🌐 Rust | 📅 2026-06-04 - A compiler and library that enable the development of GB ROMs using Rust.
+* [Rust-GB](https://github.com/zlfn/rust-gb) ⭐ 258 | 🐛 3 | 🌐 Rust | 📅 2026-06-04 - A compiler and library that enable the development of GB ROMs using Rust.
 * [gbforth](https://github.com/ams-hackers/gbforth) ⭐ 148 | 🐛 75 | 🌐 Forth | 📅 2025-10-09 - A Forth-based Game Boy development kit.
 * [gbasm](https://github.com/BonsaiDen/gbasm) ⭐ 132 | 🐛 1 | 🌐 JavaScript | 📅 2018-05-27 - A JavaScript based compiler for Game Boy z80 assembly code.
 * [Assembler](https://github.com/ulrikdamm/Assembler) ⭐ 119 | 🐛 0 | 🌐 Swift | 📅 2021-10-21 - Assembler written in Swift.
@@ -242,7 +242,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 
 ### Emulators
 
-* [mGBA](https://github.com/mgba-emu/mgba) ⭐ 7,077 | 🐛 836 | 🌐 C | 📅 2026-06-02 - Modern cross platform GBA emulator which also runs GB/GBC games.
+* [mGBA](https://github.com/mgba-emu/mgba) ⭐ 7,079 | 🐛 836 | 🌐 C | 📅 2026-06-02 - Modern cross platform GBA emulator which also runs GB/GBC games.
 
 * [SameBoy](https://github.com/LIJI32/SameBoy) ⭐ 2,105 | 🐛 157 | 🌐 C | 📅 2026-03-04 - Accurate emulator with a wide range of powerful debugging features.
 
@@ -447,7 +447,7 @@ Complete and open source games.
 * [Bubble Factory](https://github.com/DonaldHays/bubblefactory) ⭐ 28 | 🐛 3 | 🌐 C | 📅 2023-04-03 - \*Vanilla- SDCC (no gbdk).
 * [dino-gb](https://github.com/rnegron/dino-gb) ⭐ 27 | 🐛 0 | 🌐 C | 📅 2024-08-10 - Another clone of the Chrome game.
 * [Infinity](https://github.com/gb-archive/infinity-gbc) ⭐ 26 | 🐛 0 | 🌐 C | 📅 2021-04-14 - RPG developed by Affinix Software primarily between the years 1999 and 2001. The game never found a publisher and was eventually canceled. Got recently released with the full source, development tools and workflows.
-* [FlappyBoy](https://github.com/bitnenfer/FlappyBoy) ⭐ 21 | 🐛 0 | 🌐 C | 📅 2015-03-26
+* [FlappyBoy](https://github.com/bitnenfer/FlappyBoy) ⭐ 22 | 🐛 0 | 🌐 C | 📅 2015-03-26
 * [flappybird-gameboy](https://github.com/pashutk/flappybird-gameboy) ⭐ 15 | 🐛 0 | 🌐 C | 📅 2017-05-18
 * [GB raycaster, Vision-8](https://github.com/haroldo-ok/really-old-stuff/tree/master/gameboy) ⭐ 15 | 🐛 0 | 🌐 C | 📅 2017-11-02 - and some other projects.
 * [Guns & Riders](https://github.com/kanfor/gunsridersgameboy) ⭐ 14 | 🐛 1 | 🌐 C | 📅 2016-05-16
@@ -498,7 +498,7 @@ Complete and open source games.
 
 ### Game Disassemblies
 
-* [Pokémon Red/Blue](https://github.com/pret/pokered) ⭐ 4,738 | 🐛 21 | 🌐 Assembly | 📅 2026-05-24
+* [Pokémon Red/Blue](https://github.com/pret/pokered) ⭐ 4,741 | 🐛 21 | 🌐 Assembly | 📅 2026-05-24
 * [Pokémon Crystal](https://github.com/pret/pokecrystal) ⭐ 2,444 | 🐛 61 | 🌐 Assembly | 📅 2026-05-14
 * [Link's Awakening DX](https://github.com/mojobojo/LADX-Disassembly) ⭐ 886 | 🐛 19 | 🌐 Assembly | 📅 2026-06-03
 * [Pokémon Yellow](https://github.com/pret/pokeyellow) ⭐ 848 | 🐛 3 | 🌐 Assembly | 📅 2026-05-24

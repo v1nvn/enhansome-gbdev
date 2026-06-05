@@ -485,7 +485,7 @@
             "last_commit": "2025-09-02T02:22:13Z",
             "owner": "pinobatch",
             "repo": "240p-test-mini",
-            "stars": 286
+            "stars": 287
           }
         },
         {
@@ -535,7 +535,7 @@
             "last_commit": "2026-05-28T02:01:21Z",
             "owner": "gbdev",
             "repo": "rgbds",
-            "stars": 1617
+            "stars": 1618
           }
         },
         {
@@ -673,7 +673,7 @@
             "last_commit": "2026-06-04T05:41:19Z",
             "owner": "zlfn",
             "repo": "rust-gb",
-            "stars": 256
+            "stars": 258
           }
         }
       ],
@@ -723,7 +723,7 @@
             "last_commit": "2026-06-02T07:12:53Z",
             "owner": "mgba-emu",
             "repo": "mgba",
-            "stars": 7077
+            "stars": 7079
           }
         },
         {
@@ -2062,7 +2062,7 @@
             "last_commit": "2015-03-26T02:50:53Z",
             "owner": "bitnenfer",
             "repo": "FlappyBoy",
-            "stars": 21
+            "stars": 22
           }
         },
         {
@@ -2610,7 +2610,7 @@
             "last_commit": "2026-05-24T14:47:30Z",
             "owner": "pret",
             "repo": "pokered",
-            "stars": 4738
+            "stars": 4741
           }
         },
         {
@@ -3298,7 +3298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-04T06:49:24.649Z",
+    "last_updated": "2026-06-05T06:38:45.312Z",
     "original_repository": "gbdev/awesome-gbdev",
     "source_repository": "v1nvn/enhansome-gbdev",
     "source_repository_description": null,
