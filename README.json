@@ -339,7 +339,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-03T15:06:30Z",
+            "last_commit": "2026-06-05T18:32:41Z",
             "owner": "Baekalfen",
             "repo": "PyBoy",
             "stars": 5144
@@ -697,7 +697,7 @@
             "last_commit": "2026-03-04T21:40:17Z",
             "owner": "LIJI32",
             "repo": "SameBoy",
-            "stars": 2105
+            "stars": 2106
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2026-06-02T07:12:53Z",
             "owner": "mgba-emu",
             "repo": "mgba",
-            "stars": 7079
+            "stars": 7080
           }
         },
         {
@@ -2251,7 +2251,7 @@
             "last_commit": "2023-01-29T08:39:26Z",
             "owner": "SimonLarsen",
             "repo": "tobutobugirl-dx",
-            "stars": 92
+            "stars": 93
           }
         },
         {
@@ -2380,7 +2380,7 @@
             "last_commit": "2024-08-01T05:49:24Z",
             "owner": "Zal0",
             "repo": "ZGB",
-            "stars": 788
+            "stars": 787
           }
         },
         {
@@ -2393,7 +2393,7 @@
             "last_commit": "2024-08-01T05:49:24Z",
             "owner": "Zal0",
             "repo": "ZGB",
-            "stars": 788
+            "stars": 787
           }
         },
         {
@@ -2406,7 +2406,7 @@
             "last_commit": "2024-08-01T05:49:24Z",
             "owner": "Zal0",
             "repo": "ZGB",
-            "stars": 788
+            "stars": 787
           }
         },
         {
@@ -2563,7 +2563,7 @@
             "last_commit": "2022-12-16T23:41:38Z",
             "owner": "pret",
             "repo": "pokemon-reverse-engineering-tools",
-            "stars": 350
+            "stars": 351
           }
         },
         {
@@ -2607,10 +2607,10 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-05-24T14:47:30Z",
+            "last_commit": "2026-06-05T22:33:30Z",
             "owner": "pret",
             "repo": "pokered",
-            "stars": 4741
+            "stars": 4744
           }
         },
         {
@@ -2636,7 +2636,7 @@
             "last_commit": "2026-05-24T14:56:31Z",
             "owner": "pret",
             "repo": "pokeyellow",
-            "stars": 848
+            "stars": 849
           }
         },
         {
@@ -2685,7 +2685,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-04-13T02:13:30Z",
+            "last_commit": "2026-06-06T02:09:38Z",
             "owner": "pret",
             "repo": "pokegold-spaceworld",
             "stars": 385
@@ -2834,7 +2834,7 @@
             "last_commit": "2021-08-31T21:26:19Z",
             "owner": "cristofercruz",
             "repo": "gbp-esp-shield-pcb",
-            "stars": 24
+            "stars": 25
           }
         },
         {
@@ -3298,7 +3298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-05T06:38:45.312Z",
+    "last_updated": "2026-06-06T05:59:04.346Z",
     "original_repository": "gbdev/awesome-gbdev",
     "source_repository": "v1nvn/enhansome-gbdev",
     "source_repository_description": null,
