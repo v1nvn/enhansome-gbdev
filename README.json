@@ -342,7 +342,7 @@
             "last_commit": "2026-06-05T18:32:41Z",
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5145
+            "stars": 5146
           }
         },
         {
@@ -535,7 +535,7 @@
             "last_commit": "2026-06-07T13:55:05Z",
             "owner": "gbdev",
             "repo": "rgbds",
-            "stars": 1618
+            "stars": 1617
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2025-04-10T11:29:21Z",
             "owner": "wiz-lang",
             "repo": "wiz",
-            "stars": 432
+            "stars": 433
           }
         },
         {
@@ -673,7 +673,7 @@
             "last_commit": "2026-06-07T06:55:58Z",
             "owner": "zlfn",
             "repo": "rust-gb",
-            "stars": 258
+            "stars": 259
           }
         }
       ],
@@ -697,7 +697,7 @@
             "last_commit": "2026-03-04T21:40:17Z",
             "owner": "LIJI32",
             "repo": "SameBoy",
-            "stars": 2106
+            "stars": 2107
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2026-06-02T07:12:53Z",
             "owner": "mgba-emu",
             "repo": "mgba",
-            "stars": 7082
+            "stars": 7085
           }
         },
         {
@@ -1763,7 +1763,7 @@
             "last_commit": "2026-01-25T01:04:17Z",
             "owner": "AntonioND",
             "repo": "ucity",
-            "stars": 475
+            "stars": 476
           }
         },
         {
@@ -1906,7 +1906,7 @@
             "last_commit": "2026-01-25T18:27:55Z",
             "owner": "dannye",
             "repo": "pokered-gbc",
-            "stars": 176
+            "stars": 177
           }
         },
         {
@@ -2607,10 +2607,10 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-06-07T05:48:25Z",
+            "last_commit": "2026-06-08T17:00:26Z",
             "owner": "pret",
             "repo": "pokered",
-            "stars": 4746
+            "stars": 4748
           }
         },
         {
@@ -2620,7 +2620,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-06-08T01:35:21Z",
+            "last_commit": "2026-06-08T17:34:47Z",
             "owner": "pret",
             "repo": "pokecrystal",
             "stars": 2445
@@ -2646,7 +2646,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-06-08T01:38:06Z",
+            "last_commit": "2026-06-08T17:34:08Z",
             "owner": "pret",
             "repo": "pokegold",
             "stars": 682
@@ -2685,7 +2685,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-06-06T16:12:59Z",
+            "last_commit": "2026-06-09T00:12:47Z",
             "owner": "pret",
             "repo": "pokegold-spaceworld",
             "stars": 385
@@ -2701,7 +2701,7 @@
             "last_commit": "2026-06-03T03:08:34Z",
             "owner": "zladx",
             "repo": "LADX-Disassembly",
-            "stars": 886
+            "stars": 887
           }
         },
         {
@@ -2711,7 +2711,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-04-06T17:57:03Z",
+            "last_commit": "2026-06-09T00:37:13Z",
             "owner": "Stewmath",
             "repo": "oracles-disasm",
             "stars": 199
@@ -2879,7 +2879,7 @@
             "last_commit": "2026-06-01T23:10:55Z",
             "owner": "HerrZatacke",
             "repo": "gb-printer-web",
-            "stars": 70
+            "stars": 71
           }
         }
       ],
@@ -3298,7 +3298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-08T06:52:24.890Z",
+    "last_updated": "2026-06-09T06:15:44.658Z",
     "original_repository": "gbdev/awesome-gbdev",
     "source_repository": "v1nvn/enhansome-gbdev",
     "source_repository_description": null,
