@@ -189,7 +189,7 @@
             "last_commit": "2026-06-06T17:13:22Z",
             "owner": "shonumi",
             "repo": "gbe-plus",
-            "stars": 590
+            "stars": 591
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-06-05T18:32:41Z",
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5146
+            "stars": 5147
           }
         },
         {
@@ -425,7 +425,7 @@
             "last_commit": "2024-10-06T07:04:03Z",
             "owner": "robert",
             "repo": "gameboy-doctor",
-            "stars": 277
+            "stars": 278
           }
         }
       ],
@@ -532,10 +532,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-07T13:55:05Z",
+            "last_commit": "2026-06-09T23:07:25Z",
             "owner": "gbdev",
             "repo": "rgbds",
-            "stars": 1617
+            "stars": 1618
           }
         },
         {
@@ -673,7 +673,7 @@
             "last_commit": "2026-06-07T06:55:58Z",
             "owner": "zlfn",
             "repo": "rust-gb",
-            "stars": 259
+            "stars": 260
           }
         }
       ],
@@ -697,7 +697,7 @@
             "last_commit": "2026-03-04T21:40:17Z",
             "owner": "LIJI32",
             "repo": "SameBoy",
-            "stars": 2107
+            "stars": 2108
           }
         },
         {
@@ -775,7 +775,7 @@
             "last_commit": "2026-06-06T17:13:22Z",
             "owner": "shonumi",
             "repo": "gbe-plus",
-            "stars": 590
+            "stars": 591
           }
         },
         {
@@ -1579,7 +1579,7 @@
             "last_commit": "2025-11-06T21:25:09Z",
             "owner": "DonaldHays",
             "repo": "rgbds-vscode",
-            "stars": 79
+            "stars": 80
           }
         },
         {
@@ -2429,7 +2429,7 @@
             "last_commit": "2026-05-14T23:15:10Z",
             "owner": "dmang-dev",
             "repo": "totp-gb",
-            "stars": 2
+            "stars": 4
           }
         }
       ],
@@ -2685,7 +2685,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-06-09T00:12:47Z",
+            "last_commit": "2026-06-09T20:03:46Z",
             "owner": "pret",
             "repo": "pokegold-spaceworld",
             "stars": 385
@@ -3298,7 +3298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-09T06:15:44.658Z",
+    "last_updated": "2026-06-10T06:37:58.867Z",
     "original_repository": "gbdev/awesome-gbdev",
     "source_repository": "v1nvn/enhansome-gbdev",
     "source_repository_description": null,
