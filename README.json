@@ -75,7 +75,7 @@
             "last_commit": "2023-07-20T14:50:12Z",
             "owner": "Gekkio",
             "repo": "gb-hardware",
-            "stars": 369
+            "stars": 370
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-06-05T18:32:41Z",
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5148
+            "stars": 5150
           }
         },
         {
@@ -1064,7 +1064,7 @@
             "last_commit": "2026-05-02T13:20:12Z",
             "owner": "Rangi42",
             "repo": "tilemap-studio",
-            "stars": 515
+            "stars": 516
           }
         },
         {
@@ -1611,7 +1611,7 @@
             "last_commit": "2025-04-22T08:44:05Z",
             "owner": "gb-archive",
             "repo": "salvage",
-            "stars": 39
+            "stars": 40
           }
         },
         {
@@ -2610,7 +2610,7 @@
             "last_commit": "2026-06-08T17:00:26Z",
             "owner": "pret",
             "repo": "pokered",
-            "stars": 4749
+            "stars": 4751
           }
         },
         {
@@ -2620,7 +2620,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-06-08T17:34:47Z",
+            "last_commit": "2026-06-11T17:42:12Z",
             "owner": "pret",
             "repo": "pokecrystal",
             "stars": 2447
@@ -2646,7 +2646,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-06-08T17:34:08Z",
+            "last_commit": "2026-06-11T17:42:20Z",
             "owner": "pret",
             "repo": "pokegold",
             "stars": 682
@@ -2685,7 +2685,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-06-09T20:03:46Z",
+            "last_commit": "2026-06-11T23:58:54Z",
             "owner": "pret",
             "repo": "pokegold-spaceworld",
             "stars": 385
@@ -3298,7 +3298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-11T06:56:50.280Z",
+    "last_updated": "2026-06-12T06:49:50.993Z",
     "original_repository": "gbdev/awesome-gbdev",
     "source_repository": "v1nvn/enhansome-gbdev",
     "source_repository_description": null,
