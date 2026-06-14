@@ -342,7 +342,7 @@
             "last_commit": "2026-06-05T18:32:41Z",
             "owner": "Baekalfen",
             "repo": "PyBoy",
-            "stars": 5151
+            "stars": 5152
           }
         },
         {
@@ -425,7 +425,7 @@
             "last_commit": "2024-10-06T07:04:03Z",
             "owner": "robert",
             "repo": "gameboy-doctor",
-            "stars": 278
+            "stars": 279
           }
         }
       ],
@@ -535,7 +535,7 @@
             "last_commit": "2026-06-09T23:07:25Z",
             "owner": "gbdev",
             "repo": "rgbds",
-            "stars": 1619
+            "stars": 1618
           }
         },
         {
@@ -558,7 +558,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-06-12T21:25:18Z",
+            "last_commit": "2026-06-13T18:11:55Z",
             "owner": "vhelin",
             "repo": "wla-dx",
             "stars": 597
@@ -723,7 +723,7 @@
             "last_commit": "2026-06-11T00:54:30Z",
             "owner": "mgba-emu",
             "repo": "mgba",
-            "stars": 7091
+            "stars": 7098
           }
         },
         {
@@ -2623,7 +2623,7 @@
             "last_commit": "2026-06-12T16:02:39Z",
             "owner": "pret",
             "repo": "pokecrystal",
-            "stars": 2450
+            "stars": 2449
           }
         },
         {
@@ -2649,7 +2649,7 @@
             "last_commit": "2026-06-12T16:02:47Z",
             "owner": "pret",
             "repo": "pokegold",
-            "stars": 682
+            "stars": 683
           }
         },
         {
@@ -2685,7 +2685,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-06-12T21:29:45Z",
+            "last_commit": "2026-06-13T22:02:34Z",
             "owner": "pret",
             "repo": "pokegold-spaceworld",
             "stars": 385
@@ -2711,7 +2711,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-06-09T00:37:13Z",
+            "last_commit": "2026-06-13T19:03:58Z",
             "owner": "Stewmath",
             "repo": "oracles-disasm",
             "stars": 199
@@ -2919,7 +2919,7 @@
             "last_commit": "2020-11-16T05:24:36Z",
             "owner": "trash80",
             "repo": "Arduinoboy",
-            "stars": 366
+            "stars": 367
           }
         },
         {
@@ -3298,7 +3298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-13T06:23:41.901Z",
+    "last_updated": "2026-06-14T06:48:33.779Z",
     "original_repository": "gbdev/awesome-gbdev",
     "source_repository": "v1nvn/enhansome-gbdev",
     "source_repository_description": null,
